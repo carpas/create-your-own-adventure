@@ -1,4 +1,4 @@
-E comecei por ler este livro :
+E acabei de ler este livro :
 
 [Ética, de Baruch Espinoza](etica/ler.md)
 
